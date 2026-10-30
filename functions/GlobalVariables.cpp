@@ -2,7 +2,7 @@
 using namespace std;
 int x=7;//global variable
 void fun(){
-    
+    int x=5;
 }
 int main(){
     cout<<x<<endl;

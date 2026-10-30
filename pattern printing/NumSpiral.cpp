@@ -29,7 +29,7 @@ for(int i=1;i<=2*n-1;i++){
         int a=i,b=j;
         if(i>n) a=2*n-i;
         if(j>n) b=2*n-j;
-        cout<<min(a,b)<<" ";\
+        cout<<min(a,b)<<" ";
 
     }
     cout<<endl;
